@@ -4,7 +4,7 @@ package org.example;
 import java.util.Date;
 import java.util.Scanner;
 
-public class Main { //Pastor Lovon 2+1, Bonnier 1, Alicia 1
+public class    Main { //Pastor Lovon 2+1, Bonnier 1, Alicia 1
     public static void main(String[] args) {
         System.out.printf("Hello and welcome!\n");
         int nomVec1[] ={1,2,3,4,5,6,7,8,9,10};
